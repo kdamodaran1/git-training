@@ -27,4 +27,5 @@
     <migrationTask xmi:id="_XiZUl5Y6Eeig8vXBy950XQ" id="org.talend.repository.model.migration.RepositoryProjectDateMigrationTask" breaks="7.0.0" version="7.0.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_XAuK0pY6Eeig8vXBy950XQ" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_ppXEcZY7EeigXoPO8Q0gGw" login="gituser@company.com" firstName="Git" lastName="User" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
